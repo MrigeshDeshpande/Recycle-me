@@ -1,0 +1,13 @@
+ion-list{
+    padding: 0;
+    box-shadow: 0 12 1 rgb(0 0 0 / 20%);
+    .money{
+        font-weight: bold;
+    }
+}
+
+ion-card{
+    ion-card-subtitle{
+        text-transform: uppercase;
+    }
+}
