@@ -1,0 +1,11 @@
+ion-button{
+    text-align: center;
+    text-transform: initial ;
+    font-size: 1rem;
+}
+
+ion-content{
+    // --background : url(../../../assets/rainbow-vortex.svg) no-repeat 100% ;
+    --background:var(  --ion-color-success)
+    
+}
